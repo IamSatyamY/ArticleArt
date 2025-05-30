@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IamSatyamY/ArticleArt.git/static/css/main.33a39b7d.css",
+    "main.js": "/IamSatyamY/ArticleArt.git/static/js/main.d92d049c.js",
+    "static/js/453.2e6b943a.chunk.js": "/IamSatyamY/ArticleArt.git/static/js/453.2e6b943a.chunk.js",
+    "index.html": "/IamSatyamY/ArticleArt.git/index.html",
+    "main.33a39b7d.css.map": "/IamSatyamY/ArticleArt.git/static/css/main.33a39b7d.css.map",
+    "main.d92d049c.js.map": "/IamSatyamY/ArticleArt.git/static/js/main.d92d049c.js.map",
+    "453.2e6b943a.chunk.js.map": "/IamSatyamY/ArticleArt.git/static/js/453.2e6b943a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33a39b7d.css",
+    "static/js/main.d92d049c.js"
+  ]
+}
